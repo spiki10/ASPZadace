@@ -370,14 +370,6 @@ pri umetanjima i do 6 puta bržom pri pristupu elementima u poređenju s binarni
 koje u takvom scenariju može degenerisati u strukturu sličnu listi.
 */
 
-
-
-
-
-
-
-
-
     return 0;
 }
 
